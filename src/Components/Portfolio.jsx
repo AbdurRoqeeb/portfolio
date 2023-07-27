@@ -31,29 +31,47 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TMDb Movies Data Analysis",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this project, I performed an exploratory analysis on TMDb movies dataset. The dataset contains information about 10,000 movies obtaned from The Movie Database (TMDb).",
+    url: "https://github.com/AbdurRoqeeb/TMDb-Movies-Data-Analysis",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Analysis of Airplane Crashes Between 1908 and 2009",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, I did the analysis and visualization of airplane crashes data in Microsoft Power BI.",
+    url: "https://github.com/AbdurRoqeeb/Analysis-of-Airplane-Crashes-from-1908-to-2009",
   },
   {
-    title: "My Resume Site",
+    title: "COVID-19 data visualization in Excel",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Visualization of COVID 19 data in Microsoft Excel.",
+    url: "https://github.com/AbdurRoqeeb/COVID19-Data",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "2021/2022 EPL goals analysis",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Analysis and Visualization of Goals scored in the 2021/2022 season of the English Premier League in Power BI.",
+    url: "https://github.com/AbdurRoqeeb/2021-2022-Premier-League-Goal-Analysis",
   },
+  {
+    title: "Data Exploration in Postgresql",
+    description:
+      "In this project, I carried out an exploratory analysis on International Breweries data in Postgresql.",
+    url: "https://github.com/AbdurRoqeeb/Utiva-Data-Science-Fellowship-SQL-Capstone-Project",
+  },
+  {
+    title: "Airlines Delay Capstone Project",
+    description:
+      "Airlines Delay Visualization in Microsoft Power BI.",
+    url: "https://github.com/AbdurRoqeeb/Airlines-Delay-Capstone-Project",
+  },
+  {
+    title: "Twitter Analysis on #NG30DaysOfLearning",
+    description:
+      "Analysis and visualization of #NG30DaysOfLearning data in Power BI.",
+    url: "https://github.com/AbdurRoqeeb/Twitter-Analysis-of-NG30DaysOfLearning",
+  }
 ];
 
 const Portfolio = () => {
